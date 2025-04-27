@@ -41,10 +41,6 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 - Achieved 91% attribution accuracy using kNN, gradient boosting, and neural networks
 - Enhanced data quality with NLP-driven preprocessing for 1K+ tweets per user
 
-## 📈 GitHub Stats
-
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asad-waraich&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asad-waraich&layout=compact&theme=tokyonight)
 
 ## 🎓 Education
 
@@ -56,8 +52,8 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations and collaboration opportunities.  
-Feel free to reach out via [email](mailto:asadullahwaraich@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/asad-waraich/).
+- Email: asadullahwaraich@gmail.com
+- LinkedIn: linkedin.com/in/asad-waraich
 
 ---
 ⭐️ From [asad-waraich](https://github.com/asad-waraich)
