@@ -6,8 +6,11 @@
 
 ## 👨‍💻 About Me
 
-Data Scientist and ML Engineer with expertise in statistical analysis, data visualization, and machine learning. Currently pursuing a Master's in Electrical and Computer Engineering at Northeastern University with a focus on AI/ML applications. Passionate about leveraging data-driven solutions to solve complex business problems.
-
+MS in Electrical and Computer Engineering candidate at Northeastern University
+- Experienced in data science, machine learning, and GenAI applications
+- Led development of "VentureForce" - a multi-agent LLM system for business planning
+- Skilled in data visualization, ML implementation and  statistical analysis
+- Passionate about building AI solutions that solve real-world business problems
 
 ## 🛠️ Technical Skills
 
@@ -20,7 +23,7 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 
 ## 📊 Featured Projects
 
-### 🔥 US Wildfire Visualization Dashboard
+### [US Wildfire Visualization Dashboard](https://github.com/asad-waraich/US-Wildfire-Dashboard)
 - Developed an interactive D3.js & SvelteKit dashboard exploring wildfire patterns across the US (2004-2015)
 - Implemented geographical visualization with dynamic filtering by cause, size, and location
 - Created responsive time series and monthly distribution charts with real-time data synchronization
