@@ -49,11 +49,11 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 
 ## 🎓 Education
 
-- **Northeastern University, Boston, MA**
-  MS Electrical and Computer Engineering (Expected May 2026)  
+- **Northeastern University, Boston, MA**  
+  MS in Electrical and Computer Engineering (Expected May 2026)
   
-- **Lahore University of Management Sciences (LUMS)**
-  BS in Electrical Engineering (2023)  
+- **Lahore University of Management Sciences (LUMS), Pakistan**  
+  BS in Electrical Engineering (2023) 
 
 ## 📫 Let's Connect!
 
