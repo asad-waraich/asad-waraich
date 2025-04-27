@@ -58,8 +58,8 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 ## 📫 Let's Connect!
 
 - Email: wariach.a@northeastern.edu
-- Persoal Email: asadullahwaraich@gmail.com
-- LinkedIn: linkedin.com/in/asad-waraich
+- Personal Email: asadullahwaraich@gmail.com
+- LinkedIn: linkedin.com/in/asad-waraich 
 
 ---
 ⭐️ From [asad-waraich](https://github.com/asad-waraich)
