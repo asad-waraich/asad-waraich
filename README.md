@@ -29,6 +29,12 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 - Created responsive time series and monthly distribution charts with real-time data synchronization
 - [View Project](https://github.com/asad-waraich/US-Wildfire-Dashboard)
 
+### VentureForce - Multi-Agent LLM System
+- Engineered a multi-agent LLM framework by implementing specialized domain agents (Engineering, Marketing, Legal) which transformed business ideas into comprehensive action plans
+- Reduced operational costs by 70% by fine-tuning smaller models (Mistral 7B, Llama 3.1) instead of relying on GPT-4 API calls
+- Improved system scalability by building a modular architecture with FastAPI, SQLite, and custom communication protocols between agents
+- [View Project](https://github.com/asad-waraich/ventureforce)
+
 ### Gaussian Model Mixture Clustering
 - Implemented image segmentation with GMM achieving 87% clustering accuracy
 - Deployed SVM and MLP classifiers with improved accuracy through Grid Search and cross-validation
@@ -52,7 +58,8 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 
 ## 📫 Let's Connect!
 
-- Email: asadullahwaraich@gmail.com
+- Email: wariach.a@northeastern.edu
+- Persoal Email: asadullahwaraich@gmail.com
 - LinkedIn: linkedin.com/in/asad-waraich
 
 ---
