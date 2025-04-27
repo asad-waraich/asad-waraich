@@ -33,7 +33,6 @@ Expertise        : Statistical Analysis, A/B Testing, Data Pipelines, Feature En
 - Engineered a multi-agent LLM framework by implementing specialized domain agents (Engineering, Marketing, Legal) which transformed business ideas into comprehensive action plans
 - Reduced operational costs by 70% by fine-tuning smaller models (Mistral 7B, Llama 3.1) instead of relying on GPT-4 API calls
 - Improved system scalability by building a modular architecture with FastAPI, SQLite, and custom communication protocols between agents
-- [View Project](https://github.com/asad-waraich/ventureforce)
 
 ### Gaussian Model Mixture Clustering
 - Implemented image segmentation with GMM achieving 87% clustering accuracy
